@@ -41,6 +41,7 @@ module.exports = {
         'react/no-unescaped-entities': 0,
         'import/prefer-default-export': 0,
         'jsx-a11y/autocomplete-valid': 0,
+        'no-param-reassign': 0,
         'react/jsx-filename-extension': [
             1,
             {
